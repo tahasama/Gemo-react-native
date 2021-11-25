@@ -10,4 +10,4 @@ For navigation tab :
     expo install react-native-screens react-native-safe-area-context
     npm install @react-navigation/bottom-tabs
 
-All icons ued are from @expo/vector-icons
+All icons used are from @expo/vector-icons
